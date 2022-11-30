@@ -2,3 +2,7 @@
 body {
     background-color: #000;
 }
+
+.user {
+    display: none !important;
+}
