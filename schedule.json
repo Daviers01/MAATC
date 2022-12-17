@@ -1,10 +1,10 @@
 [
   {
-    text: "Select a schedule",
-    value: ""
+    text: 'Select a schedule',
+    value: ''
   },
   {
-    text: "January 7",
-    value: "January 7",
-  }
+    text: 'January 7',
+    value: 'January 7'
+  },
 ]
